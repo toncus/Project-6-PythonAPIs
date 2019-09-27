@@ -1,2 +1,3 @@
-# PythonAPIsHomework
-Python APIs Homework-WeatherPy
+## Grading
+
+* Follow the [Python_API_grading_rubric](../Instructions/Python_API_grading_rubric.pdf)
